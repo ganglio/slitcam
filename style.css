@@ -1,0 +1,11 @@
+/* line 2, style.scss */
+#stream-in,
+#stream-out {
+  width: 320px;
+  height: 240px;
+}
+
+/* line 7, style.scss */
+#stream-in {
+  display: none;
+}
